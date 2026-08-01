@@ -31,6 +31,7 @@ You don’t just explore the world; you feel it by immersing yourself in differe
 
 Learning is an ongoing process. I pursue self-study in different disciplines to link diverse perspectives together.
 🛠️ Hardware Proficiency: Actively studying Electronics Engineering to master hardware development using DC and AC fundamentals.
+
 ------------
 I’ll never look back or forward with fear because I know who is writing my story, and I’m just the character in His great plan. 
 

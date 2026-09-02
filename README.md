@@ -26,3 +26,4 @@ Alafaya / Winter Park, FL • [LinkedIn](https://www.linkedin.com/in/your-linked
 ### 🎓 Background
 * **B.S. in Computer Science** — Rollins College ('25)
 * Concluding a full-time backend software contract late September 2026.
+* Co-Founder & Lead Cloud Engineer of BluMirai Solutions

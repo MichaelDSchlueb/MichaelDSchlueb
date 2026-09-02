@@ -1,6 +1,6 @@
 # Michael Schlueb
 **Backend & Cloud Data Infrastructure Engineer**  
-Alafaya / Winter Park, FL • [LinkedIn](https://www.linkedin.com/in/your-linkedin-handle) • [Email](mailto:your-email@example.com)
+Alafaya / Winter Park, FL • [LinkedIn](https://www.linkedin.com/in/your-linkedin-handle) • [Email](mailto:mdschlueb@outlook.com)
 
 ---
 
